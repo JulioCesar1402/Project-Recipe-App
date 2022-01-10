@@ -4,9 +4,9 @@ Project carried out during the Trybe course
 
 # Getting start with Project Recipe App
 
-Colocando em prática tudo o que você aprendeu sobre React Context API e React Hooks até aqui enquanto pratica a organização de um projeto em equipe com a metodologia ageis Kanban, criando um aplicativo para o acesso de receitas de bebidas e comidas
+Putting into practice everything you've learned about React Context API and React Hooks so far while practicing organizing a team project with the ageis Kanban methodology, creating an application to access food and beverage recipes
 
-## Participantes
+## Participants
 #### [Julio Cesar](https://github.com/JulioCesar1402)
 #### [João Cabrera](https://github.com/JoaoCabrera)
 #### [Gisele Costa](https://github.com/giisele)
